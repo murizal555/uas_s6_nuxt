@@ -70,7 +70,7 @@
                 fill="#f1f5f9"
                 d="M39.57 52.89H10a2 2 0 1 1 0-4h29.57a12.43 12.43 0 0 0 0-24.85H10a2 2 0 1 1 0-4h29.57a16.43 16.43 0 0 1 0 32.85Z"></path>
             </svg>
-            Back</NuxtLink
+            kembali</NuxtLink
           >
           <button
             type="submit"

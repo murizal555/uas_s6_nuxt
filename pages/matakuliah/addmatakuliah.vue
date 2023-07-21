@@ -7,7 +7,7 @@
         <div class="sm:mx-auto sm:w-full sm:max-w-sm mb-4">
           <h2
             class="text-center text-1xl font-bold leading-9 tracking-tight text-slate-900">
-            ADD MATAKULIAH
+            TAMBAH MATAKULIAH
           </h2>
         </div>
         <!-- END JUDUL FORM -->
@@ -25,7 +25,7 @@
           <label
             for="floating_password"
             class="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:left-0 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
-            >Matakuliah name</label
+            >Matakuliah nama</label
           >
         </div>
         <!-- END-INPUT NAME KATEGORI KEGIATAN -->
@@ -69,7 +69,7 @@
                 fill="#f1f5f9"
                 d="M39.57 52.89H10a2 2 0 1 1 0-4h29.57a12.43 12.43 0 0 0 0-24.85H10a2 2 0 1 1 0-4h29.57a16.43 16.43 0 0 1 0 32.85Z"></path>
             </svg>
-            Back</NuxtLink
+            kembali</NuxtLink
           >
           <button
             type="submit"
@@ -87,7 +87,7 @@
                 fill="#f1f5f9"
                 d="M1504-930V754H-280V-930h1784m8-8H-288V762h1800V-938z"></path>
             </svg>
-            Save
+            simpan
           </button>
         </div>
         <!--  END-BUTTON AND LINK -->

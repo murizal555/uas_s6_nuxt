@@ -1,9 +1,9 @@
 <template>
-  <div class="container mx-auto bg-sky-100 rounded-lg mt-10">
+  <div class="container mx-auto bg-yellow-100 rounded-lg mt-10">
     <div class="md:flex px-4">
       <div class="mt-2 md:mt-0 md:ml-6 py-28">
         <h1 class="text-3xl font-semibold text-slate-800 md:text-2xl">
-          SAEPUL BAHRI
+          MURIZAL
           <br />
           TEKNIK INFORMATIKA
         </h1>
@@ -17,7 +17,7 @@
       <div class="md:flex-shrink-0 mx-auto mt-3">
         <img
           class="rounded-md md:w-62 lg:w-62 lg:h-80 md:h-80"
-          src="~/assets/images/bahri.jpeg"
+          src="~/assets/images/murizal.jpg"
           alt="Woman paying for a purchase" />
       </div>
     </div>

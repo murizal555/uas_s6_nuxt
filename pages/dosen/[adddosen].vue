@@ -8,7 +8,7 @@
           <div class="sm:mx-auto sm:w-full sm:max-w-sm mb-4">
             <h2
               class="text-center text-1xl font-bold leading-9 tracking-tight text-slate-900">
-              ADD DOSEN
+              TAMBAH DOSEN
             </h2>
           </div>
           <!-- END JUDUL FORM -->

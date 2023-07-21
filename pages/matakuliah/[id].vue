@@ -4,7 +4,7 @@
       <p class="font-semibold text-center mt-2 mb-5">Dosen pengampu</p>
       <NuxtLink
         :to="'../dosen/' + IdMatkul"
-        class="flex mb-5 py-2 px-3 w-32 bg-blue-500 border-slate-700 text-white font-semibold rounded-lg hover:bg-blue-400 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75">
+        class="flex mb-5 py-2 px-3 w-32 bg-blue-500 border-slate-700 text-white font-semibold rounded-lg hover:bg-green-400 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="#f1f5f9"
